@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img width="100%" alt="Felipe Jorge" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00B8D4,100:7C4DFF&height=250&section=header&text=Felipe%20Jorge&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Back-End%20Developer%20%C2%B7%20Go%20%C2%B7%20REST%20APIs%20%C2%B7%20AI%20Engineering&descSize=18&descAlignY=60" />
+<img width="100%" alt="Felipe" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00B8D4,100:7C4DFF&height=250&section=header&text=Felipe%20Jorge&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Back-End%20Developer%20%C2%B7%20Go%20%C2%B7%20REST%20APIs%20%C2%B7%20AI%20Engineering&descSize=18&descAlignY=60" />
 
 <a href="https://github.com/felipeirl">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=48&lines=Servi%C3%A7os+em+Go+%C2%B7+REST+APIs+%C2%B7+Microsservi%C3%A7os;Dados+na+AWS+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Docker;Agentes+de+IA+com+LangChain+%26+LangGraph;Back-end+primeiro.+Testado+sempre." />
