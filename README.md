@@ -71,18 +71,18 @@ Construo serviços back-end que se mantêm de pé: **APIs REST em Go**, sistemas
 <br/>
 
 <!-- ═══════════════ STATS ═══════════════ -->
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%2300E5FF" height="26" align="top" alt="" /> `> stats --github`
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2300E5FF" height="26" align="top" alt="" /> `> stack`
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=felipeirl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeirl&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
+<img height="165" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=felipeirl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="165" alt="Top languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=felipeirl&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
 
 <img alt="Streak" src="https://streak-stats.demolab.com/?user=felipeirl&hide_border=true&background=0D1117&ring=00E5FF&fire=7C4DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" />
 
-<img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=felipeirl&bg_color=0D1117&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF&hide_border=true&radius=8" />
+<img width="100%" alt="Activity graph" src="https://github-readme-activity-graph-eight.vercel.app/graph?username=felipeirl&bg_color=0D1117&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF&hide_border=true&radius=8" />
 
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=felipeirl&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img alt="Trophies" src="https://github-profile-trophy-seven.vercel.app/?username=felipeirl&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 </div>
 
